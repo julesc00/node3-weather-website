@@ -23,7 +23,7 @@ app.use(express.static(publicDirectoryPath)); // customize server to serve ./pub
 // Loading index.hbs
 app.get('', (req, res) => {
     res.render('index', {
-        title: 'Welcome to hbs templating',
+        title: 'Welcome to my Weather App',
         name: 'Julio Briones'
     })
 });
