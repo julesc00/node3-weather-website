@@ -39,6 +39,9 @@ a:hover {
     color: dimgray;
 }
 
+a, #link-git {
+    font-weight: 500;
+}
 footer {
     color: #888888;
     border-top: 1px solid #eeeeee;
