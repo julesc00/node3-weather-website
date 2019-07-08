@@ -1,4 +1,3 @@
-
 // Link to Form in Index.hbs
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
