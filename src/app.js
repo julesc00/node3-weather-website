@@ -71,16 +71,6 @@ app.get('/weather', (req, res) => {
             })
         })
     })
-
-    //res.send('<h1>Welcome to Our Weather Page')
-    // let address = res.send({
-    //     forecast: 'Partly clouded',
-    //     location: 'Los Angeles, CA',
-    //     address: req.query.address
-    // })
-    // return address
-    
-    
 });
 
 app.get('/products', (req, res) => {
