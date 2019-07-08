@@ -23,6 +23,10 @@ h1 {
     margin-bottom: 16px;
 }
 
+li {
+    list-style: none;
+}
+
 img {
     width: 250px;
     border-radius: 50%;
